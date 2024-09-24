@@ -1,6 +1,6 @@
 What is this?
-This is my own variant of Universal Venue List, cloned from Basemental
-Since Basemental chose not to add any of my mods to his version, I decided to make my own!
+This is a variant of Universal Venue List which is more universal than the one from Basemental, since Basemental refuses to add my venues to his list (Essentially meaning his isn't universal!).
+Since Basemental chose not to add any Colonol Nutty mods to his version, I decided to make my own!
 
 !!!!Do not install this at the same time as Universal Venue List by Basemental!!!!
 
@@ -15,3 +15,5 @@ Patreon: https://www.patreon.com/colonolnutty
 
 Included Venues:
 - All of them. (Probably)
+- Devious Desires - Brothel
+- Sim Snatcher - Slave Market
