@@ -167,6 +167,8 @@
         <T type="TableSetReference">1885421728</T>
         <T type="TableSetReference">14190523504912226477</T>
         <T type="TableSetReference">15703348679258746763</T>
+        <T type="TableSetReference">11243133907274785450</T>
+        <T type="TableSetReference">845314467013044419</T>
       </L>
       <L name="gallery_download_venue_map">
         <U type="Object" schema="GalleryDownloadVenueMappingTuple">

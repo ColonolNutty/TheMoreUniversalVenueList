@@ -1,2 +1,5 @@
+v1.1:
+- Actually included Devious Desires and Sim Snatcher venues.
+
 v1.0:
 - Initial Release.
