@@ -17,3 +17,4 @@ Included Venues:
 - All of them. (Probably)
 - Devious Desires
 - Sim Snatcher
+- Life Improvements

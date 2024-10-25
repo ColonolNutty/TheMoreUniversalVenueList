@@ -1,3 +1,6 @@
+v1.2:
+- Included the venue from the Life Improvements - Pet Store.
+
 v1.1:
 - Actually included Devious Desires and Sim Snatcher venues.
 
